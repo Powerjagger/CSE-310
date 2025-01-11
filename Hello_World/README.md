@@ -1,23 +1,10 @@
-# Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program is a basic hello world software simply to display the given text.
 
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+This software was created to act as a holding point for more advanced projects in the future.
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+No outside tools were needed for the development of this code.
 
-{Describe the programming language that you used}
-
-# Useful Websites
-
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+The program was developed using Python within VScode with no unusual extenstions needed
